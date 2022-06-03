@@ -1,6 +1,6 @@
 package by.it_academy.lesson4;
 
-public class Job3 {
+public class work3_3 {
     public static void main(String[] args) {
         int[] array = new int[10];
 

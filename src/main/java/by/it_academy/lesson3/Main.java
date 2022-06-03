@@ -13,7 +13,5 @@ public class Main {
         if (giftValue > 25000) {
             System.out.println("The tax is " + (1700 + (giftValue - 25000) * 0.1));
         }
-
-
     }
 }
